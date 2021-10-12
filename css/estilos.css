@@ -1,8 +1,8 @@
 body
 {   
-    color: #333;
+    color: blue;
     text-align: center;
-    font-family: "Arial";
+    font-family: "newtimesroman";
     font-size: 16px;
     margin: 0;
     padding: 0;
@@ -15,6 +15,7 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: darkgoldenrod;
 
 }
 #container h1
